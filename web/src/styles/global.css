@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #fff; /*branco*/
+    background: #ebf2f5; /*cinza clarinho*/
+}
+
+body, input, button, textarea {
+    font: 600 18px Nunito, sans-serif; /*conf da fonte que baixamos p as tags, se ñ achar aplicar qq uma sem serif*/
+}
